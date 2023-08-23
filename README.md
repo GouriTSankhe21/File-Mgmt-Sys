@@ -148,7 +148,7 @@ service
  - https://azurelessons.com/upload-and-download-file-in-azure-blob-storage/
 ## Feedback
 
-If you have any feedback, please reach out to us at abhigupta0031@gmail.com
+If you have any feedback, please reach out to us at gouritsankhe21@gmail.com
 
 
 
